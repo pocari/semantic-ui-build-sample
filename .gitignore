@@ -1,0 +1,8 @@
+node_modules
+semantic/dist/**
+semantic/tasks/**
+semantic/src/themes/**
+semantic/src/definitions/**
+semantic/src/theme.less
+semantic/src/semantic.less
+semantic/gulpfile.js
